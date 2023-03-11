@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseCloudMessagingTestKotlin</string>
+    <string name="this_is_message">This is message</string>
+    <string name="title">Title</string>
+</resources>

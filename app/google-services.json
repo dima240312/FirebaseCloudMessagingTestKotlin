@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "414862746014",
+    "project_id": "fir-cloudmessagingtestktx",
+    "storage_bucket": "fir-cloudmessagingtestktx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414862746014:android:111d6304f1bbae3001f68f",
+        "android_client_info": {
+          "package_name": "com.example.firebasecloudmessagingtestkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414862746014-805ko1daf08g1j5jbaimtv6l7b33jfri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDoVg19ceRiMgsUznX6CzBSv8Haqj4GCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414862746014-805ko1daf08g1j5jbaimtv6l7b33jfri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
